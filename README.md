@@ -10,11 +10,12 @@ Female-to-Female Jumper Wires (7x)
 
 # Where to Purchase/Cost of Components
 <strong>AliExpress</strong> <br>
-PPD42NS Dust Sensor <br>
+$   7.30  -  PPD42NS Dust Sensor <br>
 <br>
 <strong>Amazon</strong> <br>
-Particle Photon w/ Headers <br>
-DHT-22 Temperature and Humidity Sensor <br>
-Micro-USB to USB Cable <br>
-Female-to-Female Jumper Wires <br>
-
+$  19.00  -  Particle Photon w/ Headers <br>
+$   3.80  -  DHT-22 Temperature and Humidity Sensor <br>
+$   4.99  -  Micro-USB to USB Cable <br>
+$   1.99  -  Female-to-Female Jumper Wires <br>
+<br>
+$  37.08  -  Estimated Total Cost <br>
