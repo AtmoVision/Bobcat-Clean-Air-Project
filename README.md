@@ -2,7 +2,7 @@
 DIY Air Quality Network
 
 # Components to Build One Monitor
-Particle Photon w/ Headers (1x)
+Particle Photon w/ Headers (1x) <br>
 PPD42NS Dust Sensor (1x)
 DHT-22 Temperature/Humidity Sensor (1x)
 Micro-USB to USB Cable (1x)
