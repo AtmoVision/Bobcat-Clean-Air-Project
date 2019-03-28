@@ -1,14 +1,14 @@
 # Bobcat-Clean-Air-Project
 Neighborhood Scale - DIY Air Quality Network
 
-# Technology Components for One Monitor
+# Monitor - Technology Components
 Particle Photon w/ Headers (1x) <br>
 PPD42NS Dust Sensor (1x) <br>
 DHT-22 Temperature/Humidity Sensor (1x) <br>
 Micro-USB to USB Cable (1x) <br>
 Female-to-Female Jumper Wires (7x)
 
-# Sensor - Where to Purchase/Cost of Components
+# Monitor - Where to Purchase/Cost of Components
 <strong>AliExpress</strong> <br>
 $   7.30  -  PPD42NS Dust Sensor <br>
 <br>
