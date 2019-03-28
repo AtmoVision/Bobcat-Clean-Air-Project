@@ -18,4 +18,4 @@ $   3.80  -  DHT-22 Temperature and Humidity Sensor <br>
 $   4.99  -  Micro-USB to USB Cable <br>
 $   1.99  -  Female-to-Female Jumper Wires <br>
 <br>
-<strong>$  37.08  -  Estimated Total Cost</strong> <i>*Updated March 6, 2019</i><br>
+<strong>$  37.08  -  Estimated Total Cost</strong> <i>*Prices/availability verified on March 6, 2019</i><br>
