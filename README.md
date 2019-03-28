@@ -1,5 +1,5 @@
 # Bobcat-Clean-Air-Project
-College Campus Scale - DIY Air Quality Network
+Neighborhood Scale - DIY Air Quality Network
 
 # Technology Components for One Monitor
 Particle Photon w/ Headers (1x) <br>
