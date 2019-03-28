@@ -8,7 +8,7 @@ DHT-22 Temperature/Humidity Sensor (1x) <br>
 Micro-USB to USB Cable (1x) <br>
 Female-to-Female Jumper Wires (7x)
 
-# Where to Purchase/Cost of Components
+# Sensor - Where to Purchase/Cost of Components
 <strong>AliExpress</strong> <br>
 $   7.30  -  PPD42NS Dust Sensor <br>
 <br>
